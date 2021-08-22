@@ -1,7 +1,9 @@
 
 <div align = "center">
+👋 Hi, I’m haneul<br>
+👶 Junior Backend Developer<br>
 
-<h3>🔨 Tech Stack 🔨</h3>
+<h3>🛠 Tech Stack 🛠</h3>
 
 mainly used<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +22,7 @@ etc<br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h3>🌼 I've used 🌼</h3>
+<h3>🔨  I've used 🔨</h3>
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
