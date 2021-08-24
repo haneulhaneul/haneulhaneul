@@ -1,7 +1,10 @@
 
 <div align = "center">
 👋 Hi, I’m haneul<br>
-👶 Junior Backend Developer<br>
+👶 Junior Backend Developer<br><br>
+  
+<a href="https://velog.io/@hahaha" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
 
 <h3>🛠 Tech Stack 🛠</h3>
 
